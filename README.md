@@ -16,6 +16,9 @@ https://duckduckgo.com/
 qwant
 https://www.qwant.com/
 
+searx
+https://searx.me/
+
 ```
 ```
 
