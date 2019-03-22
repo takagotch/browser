@@ -21,6 +21,9 @@ https://www.qwant.com/
 searx
 https://searx.me/
 
+aol.
+https://www.aolsearch.com/?fr=aol
+
 ```
 ```
 
