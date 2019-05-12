@@ -24,6 +24,10 @@ https://searx.me/
 aol.
 https://www.aolsearch.com/?fr=aol
 
+amazon silk
+https://docs.aws.amazon.com/silk/index.html
+
+
 ```
 ```
 
