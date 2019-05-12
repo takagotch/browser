@@ -27,6 +27,8 @@ https://www.aolsearch.com/?fr=aol
 amazon silk
 https://docs.aws.amazon.com/silk/index.html
 
+firefox mdn mozilla
+https://github.com/takagotch/mdn
 
 ```
 ```
