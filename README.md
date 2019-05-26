@@ -30,6 +30,9 @@ https://docs.aws.amazon.com/silk/index.html
 firefox mdn mozilla
 https://github.com/takagotch/mdn
 
+brave
+https://brave.com/pub133
+
 ```
 ```
 
