@@ -36,6 +36,9 @@ https://brave.com/pub133
 yandex
 https://yandex.com/
 
+baidu
+https://www.baidu.com/
+
 ```
 ```
 
