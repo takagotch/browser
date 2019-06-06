@@ -33,6 +33,9 @@ https://github.com/takagotch/mdn
 brave
 https://brave.com/pub133
 
+yandex
+https://yandex.com/
+
 ```
 ```
 
