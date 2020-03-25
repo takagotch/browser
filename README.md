@@ -9,6 +9,9 @@ https://www.google.com/
 .jp
 https://www.google.co.jp/
 
+startpage
+https://www.startpage.com/
+
 bing
 https://www.bing.com/
 
